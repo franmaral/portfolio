@@ -1,0 +1,129 @@
+/* getstarted section */
+
+.getstarted-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+    height: auto;
+    padding: 1rem 1rem;
+    background: var(--steel-blue-900);
+  }
+  
+  /* getstarted header */
+  .getstarted-section-header > h3 {
+    padding-bottom: 1em;
+  }
+  
+  .getstarted-section-header > p {
+    font-style: italic;
+  }
+  
+  /* getstarted main icons links */
+  .getstarted-links {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    max-width: 980px;
+    flex-wrap: wrap;
+  }
+  
+  .getstarted-details {
+    font-size: 1.2rem;
+    /*text-shadow: 0.5px 0.5px 0.5px #1f1f1f;*/
+    transition: transform 0.3s ease-out;
+  }
+  
+  .getstarted-details:hover {
+    transform: translateY(8px);
+  }
+
+  /* getstarted icon fa formating */
+  .iconstarted {
+    font-size: 3.5em;
+    padding: 0.3em;
+  }
+
+  /* getstarted icon descriptions */
+  .icodesc {
+    font-size: 0.9em;
+    color: #383942;
+    line-height: normal;
+  }
+
+  /* getstarted icon theme button custom */
+  .btnmenu {
+    display: inline-block;
+    box-sizing: border-box;
+    padding: 0.3em 1em;
+    margin: 0.5em;
+    width: 10em;
+    height: 16em;
+    font-family: inherit;
+    font-size: inherit;
+    font-weight: 500;
+    line-height: 1.5;
+    color: #7253ed;
+    text-decoration: none;
+    vertical-align: baseline;
+    cursor: pointer;
+    background-color: #f7f7f7;
+    border-width: 0;
+    border-radius: 4px;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.12), 0 3px 10px rgba(0, 0, 0, 0.08);
+    appearance: none;
+}
+
+/* 460px / 16px = 28.75em */
+@media (max-width: 28.75em) {
+
+    body {
+        font-size: 1.2rem !important;
+    }
+
+    h1 {
+        font-size: 1.9rem !important;
+    }
+
+    h2 {
+        font-size: 1.6rem !important;
+    }
+
+    h3 {
+        font-size: 1.4rem !important;
+    }
+    .fs-6 {
+        font-size: 1.2rem !important;
+    }
+
+    .getstarted-links {
+        display: flex;
+        justify-content: center;
+        width: 100%;
+        max-width: 980px;
+        flex-wrap: wrap;
+        align-content: center;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .btnmenu {
+        margin: 1em;
+        width: 13em;
+        height: 15em;
+        font-size: 1.1em;
+    }
+
+    .iconstarted {
+        font-size: 3em;
+        padding: 0.3em;
+    }
+
+    .icodesc {
+        font-size: 0.9em;
+        color: #383942;
+        line-height: normal;
+    }
+}
