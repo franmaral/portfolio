@@ -14,6 +14,8 @@ With over 16 years of experience, I am an expert in creating structured content 
 
 Visit my personal [GitHub page](https://franmaral.github.io) to learn more.
 
+---
+
 ## Table of contents
 {: .no_toc .text-delta }
 
@@ -22,7 +24,7 @@ Visit my personal [GitHub page](https://franmaral.github.io) to learn more.
 
 ---
 
-## Experience
+## Author Background
 
 I have extensive know-how of XML schemas, modular data concepts, data module coding, content management systems, and publishing tools based on S1000D standard. I bring expertise in analytical skills for mapping source data input requirements to information outputs through XML authoring.
 

@@ -19,7 +19,7 @@ Welcome to my portfolio page! I'm a skilled writer and editor with over 16 years
 {: .fs-6 .fw-300 }
 
 [Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[Have a look at my Resume](https://franmaral.github.io/resume/resume.html){: .btn .fs-5 .mb-4 .mb-md-0 }
+[A look at my Resume](https://franmaral.github.io/resume/resume.html){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
@@ -37,8 +37,25 @@ Welcome to my portfolio page! I'm a skilled writer and editor with over 16 years
 ---
 
 ## Getting started
+<head>
+    <link
+        rel="stylesheet"
+        href="https://use.fontawesome.com/releases/v5.8.2/css/all.css"
+    />
+</head>
+<div id="getstarted" class="getstarted-section">
+    <div class="getstarted-section-header">
+        <p>Let's take a look at the main projects:</p>
+    </div>
+    <div class="getstarted-links">
+        <a href="" target="_blank" class="btnmenu getstarted-details"><i class="fa fa-code iconstarted"></i> <p>XML S1000D</p><p><span class="icodesc">Structured XML standard for aviation technical publications.</span></p></a>
+        <a id="profile-link" href="" target="_blank" class="btnmenu getstarted-details"><i class="fa fa-book iconstarted"></i> <p>DOCS AS CODE</p><p><span class="icodesc">Creating simplified guides for complex systems.</span></p></a>
+        <a href="" target="_blank" class="btnmenu getstarted-details"><i class="fa fa-language iconstarted"></i> <p>TRANSLATIONS</p><p><span class="icodesc">Converting texts accurately across global languages.</span></p></a>
+        <a href="" class="btnmenu getstarted-details"><i class="fa fa-rss-square iconstarted"></i> <p>ARTICLES/BLOG</p><p><span class="icodesc">Sharing insights on tech comm best practices.</span></p></a>
+        </div>
+</div>
 
-
+---
 
 ## Portfolio Project
 
@@ -56,7 +73,7 @@ I focused on **simplifying complex technical details** into easy to understand l
 
 From structured writing in Markdown to optimised site architecture, this project reflects an end-to-end technical communication perspective rather than just coding skills.
 
-## Technology
+## Technology Involved
 
 More specifically, here is a list of key technologies I used to create this site:
 

@@ -12,6 +12,8 @@ nav_order: 1
 This portfolio website was built using the same frameworks that technical writers in IT companies use every day. I wrote the content in Markdown, structured it using the Jekyll static site generator, managed versions on GitHub for review workflows, and published dynamically updated pages using GitHub Pages.
 {: .fs-6 .fw-300 }
 
+---
+
 ## Table of contents
 {: .no_toc .text-delta }
 
@@ -23,9 +25,6 @@ This portfolio website was built using the same frameworks that technical writer
 {: .warning }
 > Although I have worked on a wide range of technical documentation in a variety of industries, some examples of content from previous projects **cannot be made publicly available** due to corporate intellectual property, non-disclosure agreements, and export control restrictions. If you would like to discuss specific past projects and deliverables in more detail, you can contact me at [Resume contact section](https://franmaral.github.io/resume/resume.html).
 
-
----
-
 ## Introduction
 
 This project involved adapting and designing a custom Jekyll theme leveraging layouts, includes, data files, and Sass stylesheets. I took care to optimize site performance for blazing fast speeds through minification and compression. The tech stack demonstrates my grasp over static site generators to deliver documentation sites including user guides, API docs, and online help systems.
@@ -36,12 +35,12 @@ Visit my personal GitHub page [https://franmaral.github.io](https://franmaral.gi
 
 ## Server and Repository
 
-{: .important }
-> This portfolio website is a work in progress. New sections and content samples will be changed or added frequently, based on my ongoing learning.
-
 The repository is available from my GitHub profile [https://github.com/franmaral/portfolio](https://github.com/franmaral/portfolio).
 
 The site should now be running under my GitHub page [https://franmaral.github.io/portfolio](https://franmaral.github.io/portfolio).
+
+{: .important }
+> This portfolio website is a work in progress. New sections and content samples will be changed or added frequently, based on my ongoing learning.
 
 ## Navigation
 
