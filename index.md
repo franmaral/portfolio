@@ -1,35 +1,86 @@
 ---
 title: Home
-layout: home
+layout: default
+nav_order: 1
+description: "Fran Martinez Portfolio. Welcome to my portfolio page! I'm a skilled writer and editor with over 16 years helping global firms communicate complex information to customers and users."
+permalink: /
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+# Portfolio
+{: .fs-10 }
+{: .fw-700 }
+{: .no_toc }
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+Fran Martinez. `Technical Writer` 
+{: .fs-7 }
+{: .fw-600 }
 
-More specifically, the created site:
+Welcome to my portfolio page! I'm a skilled writer and editor with over 16 years helping global firms communicate complex information to customers and users. My analytical approach allows me to quickly grasp new technologies and translate specifications into simplified guides, blogs and training manuals.
+{: .fs-6 .fw-300 }
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Have a look at my Resume](https://franmaral.github.io/resume/resume.html){: .btn .fs-5 .mb-4 .mb-md-0 }
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+---
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+{: .important }
+> This portfolio website is a work in progress. New sections and content samples will be added frequently, based on my ongoing learning. The aim is to showcase a range of different technical writing skills within an adaptive site structure that will evolve over time.
 
-To get started with creating a site, simply:
+---
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
+## Table of contents
+{: .no_toc .text-delta }
 
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
+1. TOC
+{:toc}
+
+---
+
+## Getting started
+
+
+
+## Portfolio Project
+
+While **aerospace XML documentation** has been my primary focus area, I've recently expanded into IT writing through self-initiated projects around software systems and web applications. 
+
+I'm passionate about leveraging lightweight markup including Markdown, HTML, CSS in static pages to make content reusable, portable and future-ready. Through my writing portfolio and client reviews, you'll discover how I simplify the complex without losing technical depth.
+
+## Motivations
+
+The idea behind this portfolio website was the creation of a real-life writing sample that would showcase my **technical documentation skills**. As a technical writer, I used tools that we use every day. These include Markdown for writing, Jekyll for content modelling, and GitHub for version control.  
+
+I wanted to emphasise the **documentation mindset** I brought to the table, rather than approaching this as just another development project. 
+
+I focused on **simplifying complex technical details** into easy to understand language, while carefully organising the information to ensure a seamless user experience. 
+
+From structured writing in Markdown to optimised site architecture, this project reflects an end-to-end technical communication perspective rather than just coding skills.
+
+## Technology
+
+More specifically, here is a list of key technologies I used to create this site:
+
+- **Markdown** - For authoring content using simple text-based syntax
+- **Jekyll** - Static site generator that builds the overall website structure
+- **YAML** - Stores site data like page titles and other metadata
+- **Ruby** - The underlying programming language that runs Jekyll
+- **HTML** - Markup language for content structure and semantics
+- **CSS** - Adds styling and design elements
+- **GitHub** - Hosts code, enables version control and review workflow
+- **GitHub Pages** - Provides free and fast hosting for the Jekyll site
+- **Visual Studio Code** - Text editor used for authoring
+- **Trello** - Kanban boards for task management
+- **Grammarly** - Checks grammar and readability
+- **HTMLProofer** - Validates links and HTML output quality
+- **Jekyll Sass Converter** - Allows using Sass syntax for CSS
+- **Jekyll Attachments** - Adds file attachment capability
+- **Jekyll Compress HTML** - Minifies HTML for faster performance
+
+Among others that may be added based on evolving requirements.
+
+
+
 
 ----
 
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
 
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
