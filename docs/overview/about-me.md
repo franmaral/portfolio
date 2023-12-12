@@ -43,8 +43,6 @@ Through self-driven learning, I have equipped myself to create intelligent docum
 
 ## Next Steps
 
-As an aerospace technical writer looking to move into IT documentation, I wanted to develop my skills in new technologies used for software and web writing. Rather than simply list these tools on my CV, I challenged myself to create a comprehensive project that highlighted their real-world use.
-
 Although the aviation industry relies heavily on XML and legacy tools, this project exemplifies my ability to adapt to modern technical communication stacks widely used in software/IT sectors. I'm eager to apply these lessons in docs-as-code, lightweight markup, CCMS and automation to enterprise-level documentation initiatives in the computer technology sector.
 
 ## Contact
