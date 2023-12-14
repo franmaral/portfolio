@@ -1,11 +1,11 @@
 ---
 layout: default
-title: XML S1000D Overview
+title: XML S1000D Docs
 parent: XML S1000D
 nav_order: 1
 ---
 
-# XML S1000D Overview
+# XML S1000D Docs
 {: .fw-600 }
 {: .no_toc }
 
