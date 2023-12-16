@@ -31,6 +31,8 @@ This portfolio website was built using the same frameworks that technical writer
 
 This project involved adapting and designing a custom Jekyll theme leveraging layouts, includes, data files, and Sass stylesheets. I took care to optimize site performance for blazing fast speeds through minification and compression. The tech stack demonstrates my grasp over static site generators to deliver documentation sites including user guides, API docs, and online help systems.
 
+<img src="/portfolio/assets/images/Jekyll_Logo.png" alt="XML arbortext editor" width="350" height="350">
+
 The portfolio showcases my experience in content strategy, information architecture, modular S1000D XML writing, and CCMS tools from the aerospace sector. 
 
 Visit my personal GitHub page [https://franmaral.github.io](https://franmaral.github.io) to learn more.

@@ -40,9 +40,9 @@ Welcome to my portfolio page! I'm a skilled writer and editor with over 16 years
         <p>Let's take a look at the main projects:</p>
     </div>
     <div class="getstarted-links">
-        <a href="./docs/xml/xml-overview.html" target="" class="btnmenu getstarted-details"><i class="fa fa-code iconstarted"></i> <p>XML S1000D</p><p><span class="icodesc">Structured XML standard for aviation technical publications.</span></p></a>
+        <a href="./docs/xml/xml-s1000d-docs.html" target="" class="btnmenu getstarted-details"><i class="fa fa-code iconstarted"></i> <p>XML S1000D</p><p><span class="icodesc">Structured XML standard for aviation technical publications.</span></p></a>
 
-        <a href="https://www.freecodecamp.org/espanol/news/author/fran/" target="_blank" class="btnmenu getstarted-details"><i class="fa fa-language iconstarted"></i> <p>TRANSLATIONS</p><p><span class="icodesc">Converting texts accurately across global languages.</span></p></a>
+        <a href="./docs/translations/translations.html" class="btnmenu getstarted-details"><i class="fa fa-language iconstarted"></i> <p>TRANSLATIONS</p><p><span class="icodesc">Converting texts accurately across global languages.</span></p></a>
 
         <a href="#Gettingstarted" class="btnmenu getstarted-details"><i class="fa fa-rss-square iconstarted"></i> <p>ARTICLES/BLOG</p><p><span class="icodesc">Sharing insights on tech comm best practices.</span></p></a>
 
