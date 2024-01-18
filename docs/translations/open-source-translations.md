@@ -38,7 +38,6 @@ Volunteered with freeCodeCamp.org localizing educational resources by translatin
 
 ### fCC Translations to Spanish
 
-- Cómo centrar vertical y horizontalmente un elemento en posición absoluta con CSS (in progress).
 - [Archivo Git Revert: Revertir un archivo a un commit anterior](https://www.freecodecamp.org/espanol/news/archivo-git-revert-revertir-un-archivo-a-un-commit-anterior/).
 - [Cómo alinear texto en HTML: Ejemplo de text-align, center y justified](https://www.freecodecamp.org/espanol/news/como-alinear-texto-en-html-ejemplo-de-text-align-center-y-justified/).
 - [Tamaños de fuente en HTML – Cómo cambiar el tamaño del texto con una etiqueta HTML](https://www.freecodecamp.org/espanol/news/tamanos-de-fuente-html-como-cambiar-tamano-texto-con-etiqueta-html/).
