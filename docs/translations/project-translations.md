@@ -5,11 +5,10 @@ parent: Translations
 nav_order: 3
 ---
 
-# Project Translations
+# Project Translations <span class="label label-red">SECTION UNDER CONSTRUCTION</span>
 {: .fw-600 }
 {: .no_toc }
 
-Section in progress.
 {: .fs-6 .fw-300 }
 
 {: .note }

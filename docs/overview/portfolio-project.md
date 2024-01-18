@@ -39,7 +39,7 @@ Visit my personal GitHub page [https://franmaral.github.io](https://franmaral.gi
 
 ## Motivations
 
-As an aerospace technical writer looking to move into IT documentation, I wanted to develop my skills in new technologies used for software and web writing. Rather than simply list these tools on my CV, I challenged myself to create a comprehensive project that highlighted their real-world use.
+As a technical writer, I wanted to develop my skills in new technologies used for software and web writing. Rather than simply list these tools on my CV, I challenged myself to create a comprehensive project that highlighted their real-world use.
 
 The idea behind this portfolio website was the creation of a real-life writing sample that would showcase my **technical documentation skills**. As a technical writer, I used tools that we use every day. These include Markdown for writing, Jekyll for content modelling, and GitHub for version control.
 

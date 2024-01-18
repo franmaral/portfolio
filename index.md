@@ -44,7 +44,7 @@ Welcome to my portfolio page! I'm a skilled writer and editor with over 16 years
 
         <a href="./docs/translations/translations.html" class="btnmenu getstarted-details"><i class="fa fa-language iconstarted"></i> <p>TRANSLATIONS</p><p><span class="icodesc">Converting texts accurately across global languages.</span></p></a>
 
-        <a href="#Gettingstarted" class="btnmenu getstarted-details"><i class="fa fa-rss-square iconstarted"></i> <p>ARTICLES/BLOG</p><p><span class="icodesc">Sharing insights on tech comm best practices.</span></p></a>
+        <a href="./docs/writing/writing.html" class="btnmenu getstarted-details"><i class="fa fa-rss-square iconstarted"></i> <p>WRITING</p><p><span class="icodesc">Sharing insights on tech comm best practices.</span></p></a>
 
         <a id="profile-link" href="#Gettingstarted" class="btnmenu getstarted-details"><i class="fa fa-book iconstarted"></i> <p>DOCS AS CODE</p><p><span class="icodesc">Creating simplified guides for complex systems.</span></p></a>
     </div>
@@ -81,9 +81,10 @@ Here is a brief summary of what you will see in each section:
 
 <details>
 <summary><span class="label label-purple">DOCS AS CODE</span></summary>
-    <p>I have expertise in advanced documentation systems built using static sites and web technologies like HTML, CSS and other programming languages. These docs-as-code systems treat documentation like software code.</p>
+    <span class="label label-red">SECTION UNDER CONSTRUCTION</span>
+    <!--- <p>I have expertise in advanced documentation systems built using static sites and web technologies like HTML, CSS and other programming languages. These docs-as-code systems treat documentation like software code.</p>
     <p>I have created documentation websites using static sites and CI/CD tools. I designed reusable templates, stylesheets, and components that can be used across manuals. I also built features like search capability using JavaScript. Through these self-learning projects, I can apply my learnings to companies wanting to modernize technical publications. </p>
-    <p>My next goal is to transition from XML documentation to docs-as-code methods used by leading tech firms. I am passionate about bringing agile and collaborative documentation approaches through technologies like static site generators, Markdown authoring, version control systems, and automation scripts.</p>
+    <p>My next goal is to combine XML documentation with docs-as-code methods used by leading tech firms. I am passionate about bringing agile and collaborative documentation approaches through technologies like static site generators, Markdown authoring, version control systems, and automation scripts.</p>-->
 
 </details>
 
