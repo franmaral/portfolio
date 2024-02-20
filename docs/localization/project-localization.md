@@ -1,11 +1,11 @@
 ---
 layout: default
 title: Project
-parent: Translations
+parent: Localization
 nav_order: 3
 ---
 
-# Project Translations <span class="label label-red">SECTION UNDER CONSTRUCTION</span>
+# Project Localization <span class="label label-red">SECTION UNDER CONSTRUCTION</span>
 {: .fw-600 }
 {: .no_toc }
 

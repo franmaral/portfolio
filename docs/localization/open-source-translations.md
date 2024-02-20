@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Open Source
-parent: Translations
+title: Open Source Translations
+parent: Localization
 nav_order: 2
 ---
 

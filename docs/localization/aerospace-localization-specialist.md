@@ -1,15 +1,15 @@
 ---
 layout: default
-title: Aerospace
-parent: Translations
+title: Aerospace Localization Specialist
+parent: Localization
 nav_order: 1
 ---
 
-# Aerospace Tranlations
+# Aerospace Localization
 {: .fw-600 }
 {: .no_toc }
 
-The purpose of this section is to present my extensive experience in the translation of manuals for aircraft systems between English and Spanish for clients all over the world.
+The purpose of this section is to present my extensive experience as Localization Specialist in the translation of manuals for aircraft systems between English and Spanish for clients all over the world.
 {: .fs-6 .fw-300 }
 
 ---
@@ -44,7 +44,7 @@ Aviation documentation requires the use of Simplified Technical English (STE) - 
 
 <img src="/portfolio/assets/images/asd_ste_100.png" alt="XML arbortext editor" width="350" height="350">
 
-A large part of my role as a documentation translator involves adhering to the Simplified Technical English specification ASD-STE100. This requires clear communication using a well-defined set of grammatical rules and approved terminology.
+A large part of my role as a documentation translator and localization specialist involves adhering to the Simplified Technical English specification ASD-STE100. This requires clear communication using a well-defined set of grammatical rules and approved terminology.
 
 I analyse source content to rewrite long, complex sentences into shorter structures for readability. Phrasal verbs and ambiguous words are avoided, while passive voice is minimised. Before translating, I simplify paragraphs using structured writing techniques that promote clarity.
 
