@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Articles
+title: Articles and SEO
 parent: Writing
 nav_order: 1
 ---
@@ -9,7 +9,7 @@ nav_order: 1
 {: .fw-600 }
 {: .no_toc }
 
-The following articles will showcase my expertise in explaining complex subjects with ease in clear and understandable writing.
+The following sample articles are a demonstration of my expertise in SEO, as well as my ability to explain complex technical subjects with ease in clear and understandable writing.
 {: .fs-6 .fw-300 }
 
 ---
@@ -30,3 +30,10 @@ The following articles will showcase my expertise in explaining complex subjects
 
 - [XML vs. Docs as Code: Breaking Down Structure and Flexibility in Technical Writing](https://franmartinez.hashnode.dev/xml-vs-docs-as-code-breaking-down-structure-and-flexibility-in-technical-writing).
 
+## Spanish  
+<span class="label label-yellow">For more information, please [contact](https://franmaral.github.io/resume/resume.html) </span>
+
+**Freelance articles:**
+- Automation in Industrial Maintenance | Automatización en el Mantenimiento Industrial (SEO + Writing).
+- What is ESD and how can you protect yourself against it? | ¿Qué es la ESD y cómo puedes protegerte contra ella? (SEO Researching).
+- Chemical Risks in Industry | Riesgos Químicos en la Industria (SEO + Writing).
