@@ -5,7 +5,7 @@ nav_order: 4
 has_children: true
 ---
 
-# Translations
+# Localization
 {: .fw-600 }
 {: .no_toc }
 

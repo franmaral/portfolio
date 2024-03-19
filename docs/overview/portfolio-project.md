@@ -22,11 +22,6 @@ This portfolio website was built using the same frameworks that technical writer
 
 ---
 
-{: .important }
-> Although I have worked on a wide range of technical documentation in a variety of projects, some examples of content from previous projects **cannot be made publicly available** due to corporate intellectual property, non-disclosure agreements, and export control restrictions. If you would like to discuss specific past projects and deliverables in more detail, please contact me at [Resume contact section](https://franmaral.github.io/resume/resume.html).
-
----
-
 ## Introduction
 
 This project involved adapting and designing a custom Jekyll theme leveraging layouts, includes, data files, and Sass stylesheets. I took care to optimize site performance for blazing fast speeds through minification and compression. The tech stack demonstrates my grasp over static site generators to deliver documentation sites including user guides, API docs, and online help systems.
