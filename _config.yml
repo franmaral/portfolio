@@ -7,7 +7,7 @@ repository: franmaral/portfolio
 
 aux_links:
   franmaral.github.io: https://franmaral.github.io/
-  resume: https://franmaral.github.io/resume/resume.html
+  resume: https://
 
 exclude:
  # from https://github.com/jekyll/jekyll/blob/master/lib/site_template/_config.yml:
