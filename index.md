@@ -2,7 +2,7 @@
 title: Home
 layout: default
 nav_order: 1
-description: "Fran Martinez Portfolio. Welcome to my portfolio page! I'm a skilled writer and editor with over 16 years helping global firms communicate complex information to customers and users."
+description: "Fran Martinez Portfolio. Welcome to my portfolio page! I'm a skilled writer and RPA Dev with over 16 years helping global firms communicate complex information to customers and users."
 permalink: /
 ---
 
@@ -11,15 +11,16 @@ permalink: /
 {: .fw-700 }
 {: .no_toc }
 
-Fran Martinez. `Technical Writer` 
+**Fran Martinez**. 
+`Tech Writer and RPA Dev` 
 {: .fs-7 }
 {: .fw-600 }
 
-Welcome to my portfolio page! I'm a skilled writer and editor with over 16 years helping global firms communicate complex information to customers and users. My analytical approach allows me to quickly grasp new technologies and translate specifications into simplified guides, blogs and training manuals.
+Welcome to my portfolio page! I'm a skilled Tech Writer and RPA Dev with over 16 years helping global firms communicate complex information to customers and users. My analytical approach allows me to quickly grasp new technologies and translate specifications into simplified guides, blogs and training manuals.
 {: .fs-6 .fw-300 }
 
 [Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[A look at my Resume](https://franmaral.github.io/resume/resume.html){: .btn .fs-5 .mb-4 .mb-md-0 }
+[A look at my Resume](https://){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
